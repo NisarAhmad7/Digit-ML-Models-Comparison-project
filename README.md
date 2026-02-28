@@ -125,15 +125,6 @@ Neural networks benefit from scaled and reduced features
 
 Classical ML models remain competitive on structured image data
 
-## What I Learned
-
-Importance of dimensionality reduction in image-based ML tasks
-
-How different models respond to PCA-transformed data
-
-Practical comparison of ensemble, margin-based, and neural models
-
-Evaluation of multi-class classification using weighted metrics
 
 ## Project Structure
 Digit-ML-Models-Comparison/
@@ -151,18 +142,6 @@ Scikit-learn
 Matplotlib
 
 NumPy
-
-## Future Improvements
-
-Add confusion matrix visualization
-
-Perform hyperparameter tuning (GridSearchCV)
-
-Try non-linear SVM kernels
-
-Compare results with CNN-based approaches
-
-Add cross-validation
 
 ## Author
 
